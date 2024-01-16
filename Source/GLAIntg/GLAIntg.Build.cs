@@ -34,7 +34,7 @@ public class GLAIntg : ModuleRules
         PrivateDependencyModuleNames.AddRange(
             new string[]
             {
-                "GCLAddon",
+                "GLExt",
                 "GFCore",
                 "GCExt",
                 "GAExt",
