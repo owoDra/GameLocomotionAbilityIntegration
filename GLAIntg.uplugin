@@ -23,11 +23,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "GCLAddon",
-			"Enabled": true
-		},
-		{
-			"Name": "GCExt",
+			"Name": "GLExt",
 			"Enabled": true
 		},
 		{
